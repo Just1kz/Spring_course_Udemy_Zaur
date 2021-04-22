@@ -2,7 +2,7 @@ package com.belykh.spring_introduction;
 
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 //cat=beanID
 public class Cat implements Pet {
 

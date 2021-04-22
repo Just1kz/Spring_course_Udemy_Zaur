@@ -5,9 +5,9 @@ import org.springframework.stereotype.Component;
 
 import javax.annotation.*;
 
-@Component
+//@Component
 //dog = beanID
-@Scope("singleton")
+//@Scope("singleton")
 //prototype
 public class Dog implements Pet {
 //    private String name;
